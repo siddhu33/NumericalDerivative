@@ -4,6 +4,8 @@
 
 ### Compute the numerical derivative of a single-variate function in python to a set number of levels. Uses local difference method.
 
+### Yes I know mpmath exists, this is for my own learning
+
 ## Instructions
 
 ```
