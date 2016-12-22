@@ -2,7 +2,7 @@
 
 ## Introduction
 
-### Compute the numerical derivative of a single-variate python to a set number of levels.
+### Compute the numerical derivative of a single-variate function in python to a set number of levels. Uses local difference method.
 
 ## Instructions
 
